@@ -89,3 +89,9 @@ header {
 footer {
     border-top: 5px dotted black;
 }
+
+@media (max-width: 28.75em) {
+   .gallery {
+        max-width: 500px;
+   }
+}
